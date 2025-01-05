@@ -1,0 +1,1 @@
+alert("Website ini hanya dapat diakses pada perangkat Dekstop untuk kinerja optimal.");
